@@ -1,0 +1,8 @@
+C:\Users\JK\source\repos\JKForums\JKForums.Data\bin\Debug\netcoreapp2.2\JKForums.Data.deps.json
+C:\Users\JK\source\repos\JKForums\JKForums.Data\bin\Debug\netcoreapp2.2\JKForums.Data.dll
+C:\Users\JK\source\repos\JKForums\JKForums.Data\obj\Debug\netcoreapp2.2\JKForums.Data.csprojAssemblyReference.cache
+C:\Users\JK\source\repos\JKForums\JKForums.Data\obj\Debug\netcoreapp2.2\JKForums.Data.csproj.CoreCompileInputs.cache
+C:\Users\JK\source\repos\JKForums\JKForums.Data\obj\Debug\netcoreapp2.2\JKForums.Data.AssemblyInfoInputs.cache
+C:\Users\JK\source\repos\JKForums\JKForums.Data\obj\Debug\netcoreapp2.2\JKForums.Data.AssemblyInfo.cs
+C:\Users\JK\source\repos\JKForums\JKForums.Data\bin\Debug\netcoreapp2.2\JKForums.Data.runtimeconfig.json
+C:\Users\JK\source\repos\JKForums\JKForums.Data\bin\Debug\netcoreapp2.2\JKForums.Data.runtimeconfig.dev.json

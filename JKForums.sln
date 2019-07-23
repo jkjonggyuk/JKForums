@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JKForums", "JKForums\JKForums.csproj", "{224FEF12-059A-4C96-9821-BCB0486A660C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JKForums.Data", "JKForums.Data\JKForums.Data.csproj", "{CBE9719F-A2A7-4E63-AA45-944C5CA2A11D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{224FEF12-059A-4C96-9821-BCB0486A660C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224FEF12-059A-4C96-9821-BCB0486A660C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224FEF12-059A-4C96-9821-BCB0486A660C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224FEF12-059A-4C96-9821-BCB0486A660C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE9719F-A2A7-4E63-AA45-944C5CA2A11D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE9719F-A2A7-4E63-AA45-944C5CA2A11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE9719F-A2A7-4E63-AA45-944C5CA2A11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE9719F-A2A7-4E63-AA45-944C5CA2A11D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCD82CF9-F92D-4623-BCB1-7C5B3AC40A00}
+	EndGlobalSection
+EndGlobal
